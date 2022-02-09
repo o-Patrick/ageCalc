@@ -5,4 +5,4 @@
 
  I highly encourage you to check [stebsnusch's original repository](https://github.com/stebsnusch/basecamp-javascript/tree/main/funcoes) for this course!
 
- In order to check mine, [here you go](https://github.com/o-patrick/alumni)!
+ In order to check mine, [here you go](https://github.com/o-patrick/ageCalc)!
